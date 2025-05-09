@@ -14,10 +14,11 @@
 
 <h2>🛠️ Hobbies:</h2>
 
+- 📊 Data – I enjoy automating repetitive tasks, extracting insights, and presenting statistics in clean, visual formats.
 - 📈 Personal finance & investing – I'm intrigued by markets and strategies, which has inspired me to work on a cloud-based algorithmic trading system.
-- 🧠 Fitness – I’m passionate about working out and enjoy learning new training techniques and how different muscle groups respond to movement.
-- 🌊 Volunteering – I helped clean up Cannon Beach and documented the experience through my GoPro.
-- 🎥 Video editing – I like editing videos.
+- 🧠 Fitness – I’m passionate about working out and learning new techniques and how different muscle groups respond to movement.
+- 🌊 Volunteering – I helped clean up Cannon Beach and documented the experience with my GoPro.
+- 🎥 Video editing – I like editing videos and figuring out neat tricks.
 
 <h2> 🤳 Connect with me:</h2>
 

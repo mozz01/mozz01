@@ -2,23 +2,23 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [BooksRus](https://github.com/mozz01/CS-340)
-- [ShortURL](https://github.com/mozz01/ShortURL)
-- [RNG Microservice](https://github.com/mozz01/microservice)
+- [BooksRus Database](https://github.com/mozz01/CS-340): MySQL, Node.js, Express.js, Handlebars
+- [ShortURL](https://github.com/mozz01/ShortURL): MongoDB, RESTful API, SDLC
+- [RNG Microservice](https://github.com/mozz01/microservice): API Documentation, Testing & Error Handling
 
 <h2> 🎯 Skills</h2>
 
-- Programming Languages:  Python, C/C++, JavaScript, SQL (MySQL), Bash, Ruby, Go 
-- Other Technologies:  AWS, REST APIs, React, Handlebars, NoSQL (MongoDB, AWS DynamoDB)
-- Project Management Methodologies:  SDLC, Agile, Waterfall, SCRUM
-- Parallel Computing and GPU Programming:  CUDA, OpenCL
+- **Programming Languages:**  Python, C/C++, JavaScript, SQL (MySQL), Bash, Ruby, Go 
+- **Other Technologies:**  AWS, REST APIs, React, Handlebars, NoSQL (MongoDB, AWS DynamoDB)
+- **Project Management Methodologies:**  SDLC, Agile, Waterfall, SCRUM
+- **Parallel Computing and GPU Programming:**  CUDA, OpenCL
 
 <h2>🛠️ Hobbies:</h2>
 
-- 📊 Data – I enjoy automating repetitive tasks, extracting insights, and presenting statistics in clean, visual formats.
-- 📈 Personal finance & investing – I'm intrigued by markets and strategies, which has inspired me to work on a cloud-based algorithmic trading system.
-- 🧠 Fitness – I’m passionate about working out and learning new techniques and how different muscle groups respond to movement.
-- 🌊 Volunteering – I helped clean up Cannon Beach and documented the experience with my GoPro.
+- 📊 **Data** – I enjoy automating repetitive tasks, extracting insights, and presenting statistics in clean, visual formats.
+- 📈 **Personal finance & investing** – I'm intrigued by markets and strategies, which has inspired me to work on a cloud-based algorithmic trading system.
+- 🧠 **Fitness** – I’m passionate about working out and learning new techniques and how different muscle groups respond to movement.
+- 🌊 **Volunteering** – I helped clean up Cannon Beach and documented the experience with my GoPro.
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- [BooksRus](https://github.com/mozz01/CS-340)
 - [ShortURL](https://github.com/mozz01/ShortURL)
 - [RNG Microservice](https://github.com/mozz01/microservice)
 

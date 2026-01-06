@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- [FastAPI-Canvas-Lite](https://github.com/mozz01/FastAPI-Canvas-Lite): GCP, FastAPI
 - Cloud-Based Algorithmic Trading Strategies for Individual Investors (Private): AWS, Python, FastAPI
 - [BooksRus Database](https://github.com/mozz01/CS-340): MySQL, Node.js, Express.js, Handlebars
 - [ShortURL](https://github.com/mozz01/ShortURL): MongoDB, RESTful API, SDLC

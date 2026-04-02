@@ -10,8 +10,17 @@
 
 My Math Projects:
 - [Calculating Area Under Functions' Graphs (V 8.7)](https://www.desmos.com/calculator/aa7dc1744f)
+
+![](https://github.com/mozz01/mozz01/blob/main/src/math-approx-area-demo-320px.gif)
+
 - [Find the Center of Mass in a System (V 1.4)](https://www.desmos.com/calculator/7261f941d0)
+
+![](https://github.com/mozz01/mozz01/blob/main/src/math-center-mass-demo-320px.gif)
+
 - [Newton's Method for Finding the roots of an equation (V 2.0)](https://www.desmos.com/calculator/16631f72bb)
+
+![](https://github.com/mozz01/mozz01/blob/main/src/math-newton-roots-demo-320px.gif)
+
 - [Finding Volume by The Cylindrical Shells Method](https://www.desmos.com/calculator/6231267ad4)
 - [Visualizing Derivatives & Slope (V 1.0)](https://www.desmos.com/calculator/f3f6f9a29c)
 - [Absolute maximum/minimum helper](https://www.desmos.com/calculator/13ff5f7e7f)
